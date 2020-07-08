@@ -21,9 +21,9 @@ Would like to start with giving due credit to codebasics YouTube channel for the
 - Sports_Person_Classification_Model.ipynb file is the main jupyter notebook for the model creation and saving it later as pickle file
 
 # Results info:
-  -- After the model being trained, SVM method generates prediction accuracy of 85%
-  -- Saved model into pickle file using joblib
-  -- save_model.pkl is the saved model pickle file.
+  - After the model being trained, SVM method generates prediction accuracy of 85%
+  - Saved model into pickle file using joblib
+  - save_model.pkl is the saved model pickle file.
 
 # Ongoing task
-  -- Learning Flask framework to be able to deploy end to end.....
+  - Learning Flask framework to be able to deploy end to end.....
